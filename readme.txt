@@ -8,6 +8,8 @@
 * Fix - Updated translation strings from the Gutenberg extension merge [118656]
 * Add - Added `strip_dynamic_blocks` method in `Tribe__Editor__Utils` [118679]
 * Add - Added `exclude_tribe_blocks` method in `Tribe__Editor__Utils` [118679]
+* Add - Added `build_timezone_object` method in `Tribe__Timezones` [120399]
+* Add - Added `get_valid_timezone` method in `Tribe__Timezones` [120399]
 * Tweak - Allow better control of when we are in Classic editor with a new filter `tribe_editor_classic_is_active` [120137]
 * Tweak - Adjusted content in the admin welcome page that users are brought to upon newly activating Event Tickets or The Events Calendar [117795]
 
